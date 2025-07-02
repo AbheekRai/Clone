@@ -48,5 +48,15 @@ group :development do
   # gem "spring"
 end
 
+# Use PostgreSQL in production
+group :production do
+  gem 'pg', '~> 1.1'
+end
+
+# Use SQLite in development and test
+group :development, :test do
+  gem 'sqlite3', '~> 1.4'
+end
+
 
 
