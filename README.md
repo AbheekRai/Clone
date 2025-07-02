@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airbnb clone
 
 Being able to see a professional web developer at work (without video cuts) is a very enriching process.
@@ -34,3 +35,6 @@ How to:
 ![image](https://user-images.githubusercontent.com/104019638/206401550-4155a36d-d161-4d6d-8c45-09e2073b994c.png)
 
 
+=======
+# Clone
+>>>>>>> 27683f0ff2cac4f5efd2d05b3157c7132116754e
